@@ -1,5 +1,5 @@
-import {Dnd5e} from "./Dnd5e.js";
+import {Warhammer} from "./warhammer.js";
 
 Hooks.on("beavers-system-interface.init", async function(){
-    beaversSystemInterface.register(new Dnd5e());
+    beaversSystemInterface.register(new Warhammer());
 });

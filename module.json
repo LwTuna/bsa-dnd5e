@@ -1,11 +1,11 @@
 {
     "title": "Beaver's System Adaption dnd5e",
-    "description": "dnd5e implementation for Beaver's System Interface",
-    "id": "bsa-dnd5e",
-    "version": "2.0.7",
+    "description": "Warhammer implementation for Beaver's System Interface",
+    "id": "bsa-wfrp4e",
+    "version": "1.0.0",
     "authors": [
       {
-        "name": "angryBeaver",
+        "name": "Jonas Hendrix",
         "url": "https://github.com/angrybeaver"
       }
     ],
